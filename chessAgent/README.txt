@@ -1,4 +1,5 @@
 Command to run a match: 
+(ensure that the command is being run within the file path the programs are contained)
 
 python3 Play.py --p1 (player1FileName).py --p2 (player2FileName).py 
 

@@ -14,3 +14,6 @@ python3 Play.py --p1 BreakthroughAI.py --p2 Opponent.py
 ----------------------------------------------------------
 Extensive program description is available in projects on linkedin page:
 https://www.linkedin.com/in/westley-yarlott/
+
+
+(npm implementation coming soon)
